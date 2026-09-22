@@ -34,5 +34,6 @@ obj_hammerhead.type()
 
 ## OUTPUT
 <img width="839" height="289" alt="image" src="https://github.com/user-attachments/assets/f63248b1-b7a0-451d-b827-753dfe8d5bba" />
+
 ## RESULT
 Thus, the python program is executed successfully.
